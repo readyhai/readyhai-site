@@ -1,1 +1,1 @@
-"# readyhai-site" 
+# ReadyHai Landing Page 
