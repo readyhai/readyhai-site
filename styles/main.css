@@ -19,7 +19,7 @@ strong{
 }
 
 .bg-gradient {
-  background: linear-gradient(270deg, #31bc69 10%, #c1f968 100%);
+  background: linear-gradient(270deg, #c1f968 10%, #31bc69 100%);
 }
 
 
@@ -29,7 +29,7 @@ strong{
   position: relative;
   background-size: cover;
   min-height: 600px;
-  background: linear-gradient(270deg, #31bc69 0%, #c1f968 100%);
+  background: linear-gradient(270deg, #c1f968 0%, #31bc69 100%);
 }
 
 .aa-header .navbar .navbar-brand {
